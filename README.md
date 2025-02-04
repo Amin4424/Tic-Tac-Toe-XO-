@@ -1,12 +1,24 @@
-#=================================== Tic-Tac-Toe-XO- ===================================#
-#======================================= Amin4424 ======================================#
+# Tic-Tac-Toe-XO
 
-# =============================================================================================================================================#
-# A very simple game made by Flutter framework for mobile  ....................................................................................#
-# How to run : ................................................................................................................................#
-# First Create an empty application with flutter (either with Android Studio or Vscode) .......................................................#
-# Then replace the -lib (which is a folder ) - assets (which is a folder) - pubspec.yaml with the empty application ...........................#
-# **Important** : This app is made for mobile application so you should either use an Emulator or USB debugging for better exprience ..........#
-# After connecting the Phone the type command **Flutter run** in terminal .....................................................................#
-# =============================================================================================================================================#
+## Author: Amin4424
 
+---
+
+### Overview
+A very simple game made using the Flutter framework for mobile devices.
+
+### How to Run
+1. **Create an empty application with Flutter**  
+   You can use either Android Studio or Visual Studio Code (VSCode).
+   
+2. **Replace the following folders and file in the empty application**:
+   - `lib` (folder)
+   - `assets` (folder)
+   - `pubspec.yaml`
+
+3. **Important**: This app is designed for mobile devices. For a better experience, use an Emulator or USB debugging.
+
+4. **Run the application**  
+   Connect your phone and type the following command in the terminal:
+   ```sh
+   flutter run
